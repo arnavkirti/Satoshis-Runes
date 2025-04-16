@@ -59,6 +59,8 @@ function App() {
   }
 
   return (
+    <div>
+      
     <div className="min-h-screen bg-gray-900 text-white">
       {/* Navigation */}
       <nav className="fixed w-full bg-gray-900/90 backdrop-blur-md z-50">
@@ -211,6 +213,7 @@ function App() {
           </div>
         </div>
       </footer>
+    </div>
     </div>
   )
 }
