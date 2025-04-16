@@ -1,5 +1,3 @@
-import React from 'react';
-
 interface DashboardProps {
   walletAddress: string;
   onDisconnect: () => void;
