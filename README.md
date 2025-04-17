@@ -11,6 +11,7 @@ Satoshi Rune enables users to:
 - Manage predictions through a user-friendly interface
 
 ## Project Structure
+```
 satoshi-rune/
 ├── backend/           # Node.js Express backend
 │   ├── src/
@@ -26,7 +27,7 @@ satoshi-rune/
 │   ├── App.tsx       # Main application
 │   └── main.tsx      # Entry point
 └── package.json
-
+```
 ## Technology Stack
 
 ### Backend
